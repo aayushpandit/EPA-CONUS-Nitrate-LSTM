@@ -1,6 +1,7 @@
 Results of CONUS Nitrate LSTM model
 
 Steps to install:
+0. Install github in your PC
 1. Clone the git in cmd terminal      >>git clone https://github.com/aayushpandit/EPA-CONUS-Nitrate-LSTM.git
 2. Navigate to repository             >>cd EPA-CONUS-Nitrate-LSTM
 3. Create environment                 >>conda env create -f environment.yml
