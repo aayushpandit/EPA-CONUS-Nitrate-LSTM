@@ -5,7 +5,7 @@ Steps to install:
 2. Clone the git in cmd terminal      >>git clone https://github.com/aayushpandit/EPA-CONUS-Nitrate-LSTM.git
 3. Navigate to repository             >>cd EPA-CONUS-Nitrate-LSTM
 4. Create environment                 >>conda env create -f environment.yml
-5. Activate base repository           >>conda activate EPALSTM
+5. Activate base repository           >>conda activate EPA_base
 6. Open jupyter notebook in browser   >>jupyter notebook
 7. Run the code
 
