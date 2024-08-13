@@ -5,8 +5,10 @@ Steps to install:
 2. Navigate to repository             >>cd EPA-CONUS-Nitrate-LSTM
 3. Create environment                 >>conda env create -f environment.yml
 4. Activate base repository           >>conda activate EPALSTM
-5. Open jupyter notebook in browser   >>jupyter notebook
-6. Run the code
+5. conda install pip
+   pip install basemap geopandas rasterstats
+6. Open jupyter notebook in browser   >>jupyter notebook
+7. Run the code
 
 
 github descriptions:
