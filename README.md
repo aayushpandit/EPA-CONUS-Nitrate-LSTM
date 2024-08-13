@@ -33,6 +33,7 @@ github descriptions:
          - Flowmmday_20 = This contains daily simulated flow (mm/day) in 526 HUC8s in MRB
          - Load_30 = This contains nitrate yield (kg/km2/day) in 526 HUC8s in MRB, Yield obtained as Nitrate concentration * Streamflow
          - NDR_30 = This contains Nitrogen Delivery Ratio (NDR) defined as ratio of Load to surplus nitrogen from adaptation of Byrnes et. al., 2020.
+         - Nsurplus = This contains original surplus Nitrogen adapted from Byrnes et. al., 2020.
 
 3. environment.yml = This is file that contains list of all libraries used in python environment.
 4. Code_for_Thesis = This contains jupyter notebook code to get plots of results shown in paper. 
