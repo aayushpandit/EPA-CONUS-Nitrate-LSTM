@@ -7,7 +7,7 @@ Steps to install:
 4. Create environment                 >>conda env create -f environment.yml
 5. Activate base repository           >>conda activate EPA_base
 6. conda install pip                  >>install necessary packages
-   pip install basemap geopandas rasterstats
+\npip install basemap geopandas rasterstats
 7. Open jupyter notebook in browser   >>jupyter notebook
 8. Run the code
 
